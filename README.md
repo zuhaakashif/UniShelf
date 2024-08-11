@@ -19,8 +19,27 @@ This Kotlin-based Android application is designed to enhance the academic experi
 
 ## Screenshots
 
-*Include relevant screenshots here showing the key features of the app, such as the login screen, semester selection, course materials list, and the dark mode view.*
+-----------
 
+![Screenshot](https://github.com/zuhaakashif/UniShelf/blob/main/unishelf-1.jpg)
+
+-----------------------------------------------
+
+![Screenshot](https://github.com/zuhaakashif/UniShelf/blob/main/unishelf-2.jpg)
+
+---------------------------------------------
+
+![Screenshot](https://github.com/zuhaakashif/UniShelf/blob/main/unishelf-3.jpg)
+
+--------------------------------------------------
+
+![Screenshot](https://github.com/zuhaakashif/UniShelf/blob/main/unishelf-4.jpg)
+
+--------------------------------------------------
+
+![Screenshot](https://github.com/zuhaakashif/UniShelf/blob/main/unishelf-5.jpg)
+
+--------------------------------------------------
 ## Installation
 
 ### Prerequisites

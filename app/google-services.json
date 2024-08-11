@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "618968417098",
+    "project_id": "login-signup-frd-4b706",
+    "storage_bucket": "login-signup-frd-4b706.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:618968417098:android:af2633e53dd5fc447a77b3",
+        "android_client_info": {
+          "package_name": "com.example.madp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPfVVsrA1NMcRB1QpcjUZX5DRWJCsIKQI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

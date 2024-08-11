@@ -1,0 +1,107 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/darkb">
+
+    <ImageView
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        android:layout_marginTop="30sp"
+        android:layout_marginLeft="50sp"
+        android:src="@drawable/user" />
+
+    <TextView
+        android:id="@+id/tv_student_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="70sp"
+        android:layout_marginLeft="20sp"
+        android:textStyle="bold"
+        android:padding="15sp"
+        android:text="Name: Zuha Fatima"
+        android:textColor="@android:color/white"
+        android:textSize="20sp"
+        android:paddingTop="8dp" />
+
+    <TextView
+        android:id="@+id/tv_student_age"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20sp"
+        android:textStyle="bold"
+        android:padding="15sp"
+        android:text="Age: 21"
+        android:textColor="@android:color/white"
+        android:textSize="20sp"
+        android:paddingTop="8dp" />
+
+    <TextView
+        android:id="@+id/tv_student_department"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textStyle="bold"
+        android:layout_marginLeft="20sp"
+        android:padding="15sp"
+        android:text="Department: Computer Science "
+        android:textColor="@android:color/white"
+        android:textSize="20sp"
+        android:paddingTop="8dp" />
+
+    <TextView
+        android:id="@+id/tv_student_semester"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textStyle="bold"
+        android:layout_marginLeft="20sp"
+        android:text="Semester: 6"
+        android:padding="15sp"
+        android:textColor="@android:color/white"
+        android:textSize="20sp"
+        android:paddingTop="8dp" />
+    <TextView
+        android:id="@+id/start_uni"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20sp"
+        android:text="Start: November 2021"
+        android:textStyle="bold"
+        android:padding="15sp"
+        android:textColor="@android:color/white"
+        android:textSize="20sp"
+        android:paddingTop="8dp" />
+    <TextView
+        android:id="@+id/end_uni"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20sp"
+        android:textStyle="bold"
+        android:text="End: August 2025"
+        android:padding="15sp"
+        android:textColor="@android:color/white"
+        android:textSize="20sp"
+        android:paddingTop="8dp" />
+    <TextView
+        android:id="@+id/em"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20sp"
+        android:textStyle="bold"
+        android:text=""
+        android:padding="15sp"
+        android:textColor="@android:color/white"
+        android:textSize="20sp"
+        android:paddingTop="8dp" />
+    <TextView
+        android:id="@+id/em2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20sp"
+        android:textStyle="bold"
+        android:text=""
+        android:padding="15sp"
+        android:textColor="@android:color/white"
+        android:textSize="20sp"
+        android:paddingTop="8dp" />
+
+</LinearLayout>

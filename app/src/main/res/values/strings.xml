@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">MADP</string>
+    <string name="information_security">Information Security</string>
+    <string name="business_and_entrepreneurship">Business and Entrepreneurship</string>
+    <string name="big_data_analytics">Big Data Analytics</string>
+    <string name="mobile_application_developmnt">Mobile_Application_Developmnt</string>
+    <string name="technical_writing">Technical_Writing</string>
+    <string name="computer_network">Computer_Network</string>
+    <string name="computer_vision">Computer_Vision</string>
+    <string name="artificial_intelligence">Artificial_Intelligence</string>
+    <string name="design_and_analysis_of_algorithm">Design_And_Analysis_Of_Algorithm</string>
+    <string name="linear_algebra">Linear_Algebra</string>
+    <string name="sociology">Sociology</string>
+    <string name="theory_of_automata">Theory_Of_Automata</string>
+    <string name="database_system">Database_System</string>
+    <string name="pakistan_studies">Pakistan_Studies</string>
+    <string name="probability_and_statics">Probability_And_Statics</string>
+    <string name="additional_mathematics">Additional_Mathematics</string>
+    <string name="digital_logic_design">Digital_Logic_Design</string>
+    <string name="object_oriented_programming">object_oriented_programming</string>
+    <string name="book">Book</string>
+    <string name="hec_course_outline">HEC Course Outline</string>
+    <string name="past_papers">Past Papers</string>
+    <string name="notes">Notes</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="already_registered_login">Already registered? Login</string>
+    <string name="signup">SIGNUP</string>
+    <string name="password">Password</string>
+    <string name="username">Username</string>
+
+</resources>

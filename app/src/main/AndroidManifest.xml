@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+
+
+    <meta-data
+        android:name="compdfkit_key"
+        android:value="{your ComPDFKit key}" />
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.MADP"
+        tools:targetApi="31">
+        <activity
+            android:name=".LoginActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".SignupActivity"
+            android:exported="false" />
+        <activity
+            android:name=".PROB_BOOK"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="false">
+
+        </activity>
+        <activity android:name=".sem08" />
+        <activity android:name=".sem06" />
+        <activity android:name=".sem04" />
+        <activity android:name=".sem02" />
+        <activity android:name=".InfoSecurityDetailsActivity" />
+        <activity android:name=".business" />
+        <activity android:name=".bigdata" />
+        <activity android:name=".MAD" />
+        <activity android:name=".TW" />
+        <activity android:name=".CN" />
+        <activity android:name=".CV" />
+        <activity android:name=".DAA" />
+        <activity android:name=".LA" />
+        <activity android:name=".Sociology" />
+        <activity android:name=".TOA" />
+        <activity android:name=".DS" />
+        <activity android:name=".PS" />
+        <activity android:name=".AI" />
+        <activity android:name=".PROB" />
+        <activity android:name=".DATABASE" />
+        <activity android:name=".OPP" />
+        <activity android:name=".DLD" />
+        <activity android:name=".AM" />
+        <activity android:name=".LINEAR" />
+        <activity android:name=".HEC" />
+        <activity android:name=".Prob_Notes" />
+        <activity android:name=".Prob_past" />
+        <activity android:name=".DBMS_book" />
+        <activity android:name=".DBMS_notes" />
+        <activity android:name=".DBMS_past" />
+        <activity android:name=".OPP_book" />
+        <activity android:name=".OPP_past" />
+        <activity android:name=".OPP_notes" />
+        <activity android:name=".DLD_notes" />
+        <activity android:name=".DLD_book" />
+        <activity android:name=".DLD_past" />
+        <activity android:name=".AM_past" />
+        <activity android:name=".AM_book" />
+        <activity android:name=".AM_notes" />
+        <activity android:name=".DAA_book" />
+        <activity android:name=".DAA_notes" />
+        <activity android:name=".DAA_past" />
+        <activity android:name=".LA_book" />
+        <activity android:name=".LA_notes" />
+        <activity android:name=".LA_past" />
+        <activity android:name=".TW_past" />
+        <activity android:name=".TW_book" />
+        <activity android:name=".TW_notes" />
+        <activity android:name=".MAD_book" />
+        <activity android:name=".MAD_notes" />
+        <activity android:name=".MAD_past" />
+        <activity android:name=".INFO_book" />
+        <activity android:name=".INFO_past" />
+        <activity android:name=".INFO_notes" />
+
+
+    </application>
+
+</manifest>

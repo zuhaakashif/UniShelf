@@ -19,25 +19,18 @@ This Kotlin-based Android application is designed to enhance the academic experi
 
 ## Screenshots
 
------------
+Below are selected screenshots showcasing the AcuCare app’s user interface, acne detection pipeline, and treatment recommendation workflow.
 
-![Screenshot](https://github.com/zuhaakashif/UniShelf/blob/main/unishelf-1.jpg)
+<p align="center">
+  <img src="unishelf-1.jpg" width="220"/>
+  <img src="unishelf-2.jpg" width="220"/>
+  <img src="unishelf-3.jpg" width="220"/>
+</p>
 
------------------------------------------------
-
-![Screenshot](https://github.com/zuhaakashif/UniShelf/blob/main/unishelf-2.jpg)
-
----------------------------------------------
-
-![Screenshot](https://github.com/zuhaakashif/UniShelf/blob/main/unishelf-3.jpg)
-
---------------------------------------------------
-
-![Screenshot](https://github.com/zuhaakashif/UniShelf/blob/main/unishelf-4.jpg)
-
---------------------------------------------------
-
-![Screenshot](https://github.com/zuhaakashif/UniShelf/blob/main/unishelf-5.jpg)
+<p align="center">
+  <img src="unishelf-4.jpg" width="220"/>
+  <img src="unishelf-5.jpg" width="220"/>
+</p>
 
 --------------------------------------------------
 ## Installation
